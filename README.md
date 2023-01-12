@@ -25,7 +25,7 @@ I am narrowing my efforts to a single domain.
 
 ### What I'm currently learning
 
-![Swift](https://img.shields.io/badge/Swift-F05138.svg?logo=Swift&style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=for-the-badge&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=for-the-badge&logoColor=white)
 
 ### Connect with me
