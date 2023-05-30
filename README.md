@@ -26,7 +26,7 @@ I am narrowing my efforts to a single domain.
 ### What I'm currently learning
 
 ![Docker](https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=for-the-badge&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=for-the-badge&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Connect with me
 
