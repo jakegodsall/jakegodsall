@@ -1,36 +1,40 @@
-<h1 align="center">Hello World.</h1>
+# Hi there, I'm Jake 👋
 
-I'm a self-taught developer, mainly focusing on full-stack web development. I
-have worked on a number of ML projects in the past, but due to time and energy constraints,
-I am narrowing my efforts to a single domain.
+## About Me
 
-### Technologies I use on a daily basis
+I'm a passionate and versatile developer who loves working across the full stack. My goal is to create innovative solutiosn that allow people to become incrementally better each day. With a strong foundation in both front-end and back-end development, I thrive in collaborative environments where I can contribute my skills to build robust and user-friendly applications.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+💻 Tech Stack
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+- Languages: JavaScript, Python, PHP
+- Front-end: React, Next.js, TailwindCSS
+- Back-end: Node.js, Express, Django, Flask
+- Databases: MySQL, PostgreSQL, MongoDB
+- DevOps: Docker, Nginx, Digital Ocean
 
-### What I'm currently learning
+🚀 What I Do
 
-![Docker](https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=for-the-badge&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+I enjoy working on a wide range of projects, from crafting engaging user interfaces to architecting scalable and efficient back-end systems. Here are some highlights of my skillset and experience:
 
-### Connect with me
+- Develop responsive web applications using modern front-end frameworks such as React and Next.js
+- Design and implement RESTful APIs utilizing Django and Django REST Framework for seamless client-server communication.
+- Create interactive and intuitive user interfaces with HTML, CSS, and JavaScript, focusing on a delightful user experience.
+- Utilize databases like MySQL, PostgreSQL, and MongoDB to store and retrieve data efficiently.
+- Continuously integrate and deploy applications using Git, GitHub, and various cloud platforms like Digital Ocean and AWS.
 
-<div style="margin: 10px 0">
-    <a style="margin-right: 20px" href="https://www.linkedin.com/in/godsalljake/"><img src="images/linkedin.svg" width="35px"></a>
-    <a style="margin-right: 20px" href="https://www.frontendmentor.io/profile/jakegodsall"><img src="images/frontendmentor.png" width="35px"></a>
-</div>
+🌱 Currently (and Continuous) Learning
+
+I'm currently expanding my knowledge in the following areas:
+
+- Docker: I'm actively learning how to containerize applications and create reproducible environments with Docker. I'm excited to leverage the power of containerization to streamline development workflows and enhance scalability.
+- Nginx: As part of my ongoing learning journey, I'm diving into Nginx to gain a deeper understanding of web server configurations, load balancing, and reverse proxy setups. I believe this knowledge will enable me to optimize application performance and handle high traffic efficiently.
+
+🤝 Let's Connect
+
+I'm always open to collaborating on exciting projects and connecting with fellow developers. Feel free to reach out to me through the following channels:
+
+- Website: http://jakegodsall.com
+- LinkedIn: linkedin.com/in/godsalljake
+- Email: jake.edward.godsall@gmail.com
+
+Looking forward to discussing ideas, exploring new opportunities, and contributing to meaningful projects. Let's build something amazing together! 🚀
