@@ -33,8 +33,8 @@ I'm currently expanding my knowledge in the following areas:
 
 I'm always open to collaborating on exciting projects and connecting with fellow developers. Feel free to reach out to me through the following channels:
 
-- Website: http://jakegodsall.com
-- LinkedIn: linkedin.com/in/godsalljake
+- Website: https://jakegodsall.com
+- LinkedIn: https://linkedin.com/in/godsalljake
 - Email: jake.edward.godsall@gmail.com
 
 Looking forward to discussing ideas, exploring new opportunities, and contributing to meaningful projects. Let's build something amazing together! 🚀
