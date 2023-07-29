@@ -6,9 +6,9 @@ I'm a passionate and versatile developer who loves working across the full stack
 
 💻 Tech Stack
 
-- Languages: JavaScript, Python, PHP
+- Languages: JavaScript, Python, Java
 - Front-end: React, Next.js, TailwindCSS
-- Back-end: Node.js, Express, Django, Flask
+- Back-end: Spring, Django, Flask
 - Databases: MySQL, PostgreSQL, MongoDB
 - DevOps: Docker, Nginx, Digital Ocean
 
