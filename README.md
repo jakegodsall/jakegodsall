@@ -18,7 +18,7 @@ Technologist, linguist and self-experimenter.
 For the remainder of 2023 I intend to focus entirely on becoming far more competent with data persistence. I have enough knowledge of relational databases to build applications, but I know there are optimisations I could be making at this layer. 
 As such, I am taking the following courses:
 
-- [Fundamentals of Database Engineering - Jussein Nasser](https://www.udemy.com/course/database-engines-crash-course/)
+- [Fundamentals of Database Engineering - Hussein Nasser](https://www.udemy.com/course/database-engines-crash-course/)
 - [MongoDB: The Complete Developer's Guide 2023 - Academind](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
 - [Redis: The Complete Developer's Guide - Stephen Grider](https://www.udemy.com/course/redis-the-complete-developers-guide-p/)
 
