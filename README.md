@@ -12,7 +12,7 @@ I am currently working on [Reppd](https://github.com/jakegodsall/reppd), a full-
 
 ## 🌱 Learning Journey
 
-I'm currently learning PHP to add to my skillset, enabling me to not only build robust backend services with a shorter development period.
+I'm currently learning PHP to add to my skillset, enabling me to not only build robust backend services but to be able to do so with a shorter development period.
 
 ## 📫 Let's Connect!
 
