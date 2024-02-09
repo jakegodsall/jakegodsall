@@ -8,7 +8,9 @@ I'm a passionate freelance web developer with a focus on the frontend. I love cr
 
 ## 🔨 What I'm Working On
 
-I am currently working on [Reppd](https://github.com/jakegodsall/reppd), a full-stack productivity app for tracking daily repetitions of productive habits.
+I am currently working on:
+- [GitHub User Search App](https://github.com/jakegodsall/fm-github-user-search-app) - A web frontend for querying the GitHub API for users with useful statistics (Frontend Mentor).
+- [Devjobs Web App](https://github.com/jakegodsall/fm-devjobs-web-app) - A developer joblisting portal (Frontend Mentor).
 
 ## 🌱 Learning Journey
 
