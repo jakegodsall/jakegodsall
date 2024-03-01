@@ -10,7 +10,7 @@ I'm a passionate freelance web developer with a focus on the frontend. I love cr
 
 I am currently working on:
 - [GitHub User Search App](https://github.com/jakegodsall/fm-github-user-search-app) - A web frontend for querying the GitHub API for users with useful statistics (Frontend Mentor).
-- [Joblisting Web app](https://github.com/jakegodsall/fm-devjobs-web-app](https://github.com/jakegodsall/fm-joblistings-django) - A developer joblisting portal (Frontend Mentor) built with Django.
+- [Joblisting Web App](https://github.com/jakegodsall/fm-joblistings-django) - A developer joblisting portal (Frontend Mentor) built with Django.
 
 ## 🌱 Learning Journey
 
