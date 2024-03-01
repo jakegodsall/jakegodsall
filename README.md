@@ -2,15 +2,15 @@
 
 I'm a passionate freelance web developer with a focus on the frontend. I love creating user-friendly and visually appealing web applications. My expertise lies in:
 
-- Building beautiful, responsive, user-friendly UIs with React.js.
-- Developing robust, efficient, and test-driven server-side code using Java and Spring Boot.
+- Building beautiful, responsive, user-friendly UIs with React.js, Next.js, and TailwindCSS.
+- Developing robust, efficient, and test-driven server-side code using Python and Django/DRF.
 - Effective and efficient database design with RDBMSs (expertise in MySQL).
 
 ## 🔨 What I'm Working On
 
 I am currently working on:
 - [GitHub User Search App](https://github.com/jakegodsall/fm-github-user-search-app) - A web frontend for querying the GitHub API for users with useful statistics (Frontend Mentor).
-- [Devjobs Web App](https://github.com/jakegodsall/fm-devjobs-web-app) - A developer joblisting portal (Frontend Mentor).
+- [Joblisting Web app](https://github.com/jakegodsall/fm-devjobs-web-app](https://github.com/jakegodsall/fm-joblistings-django) - A developer joblisting portal (Frontend Mentor) built with Django.
 
 ## 🌱 Learning Journey
 
