@@ -9,12 +9,11 @@ I'm a passionate freelance web developer with a focus on the frontend. I love cr
 ## 🔨 What I'm Working On
 
 I am currently working on:
-- [GitHub User Search App](https://github.com/jakegodsall/fm-github-user-search-app) - A web frontend for querying the GitHub API for users with useful statistics (Frontend Mentor).
-- [Joblisting Web App](https://github.com/jakegodsall/fm-joblistings-django) - A developer joblisting portal (Frontend Mentor) built with Django.
+- [Kanban task management web app](https://github.com/jakegodsall/fm-kanban-task-manager) - Full-stack web Kanban task management web app built using PHP 8, Laravel 11 with Blade templates.
 
 ## 🌱 Learning Journey
 
-I'm currently learning PHP to add to my skillset, enabling me to not only build robust backend services but to be able to do so with a shorter development period.
+I'm currently focusing on PHP/Laravel development with a focus on efficiency and scalability.
 
 ## 📫 Let's Connect!
 
