@@ -9,7 +9,7 @@ I'm a passionate freelance web developer with a focus on the frontend. I love cr
 ## 🔨 What I'm Working On
 
 I am currently working on:
-- [Kanban task management web app](https://github.com/jakegodsall/fm-kanban-task-manager) - Full-stack web Kanban task management web app built using PHP 8, Laravel 11 with Blade templates.
+- [Kanban task management web app](https://github.com/jakegodsall/fm-kanban-task-manager) - Full-stack web-based Kanban task management app built using PHP 8, Laravel 11 and Blade templates.
 
 ## 🌱 Learning Journey
 
