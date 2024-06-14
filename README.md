@@ -9,7 +9,7 @@ I'm a passionate freelance web developer with a focus on the frontend. I love cr
 ## 🔨 What I'm Working On
 
 I am currently working on:
-- [Reppd](https://github.com/jakegodsall/reppd) - REST backend for a goal setting and progress tracking application. Built with Java 17, Spring Framework 6m and MySQL.
+- [Reppd](https://github.com/jakegodsall/reppd) - REST backend for a goal setting and progress tracking application. Built with Java 17, Spring Framework 6, and MySQL.
 - [Kanban task management web app](https://github.com/jakegodsall/fm-kanban-task-manager) - Full-stack web-based Kanban task management app built using PHP 8, Laravel 11, and Blade templates.
 
 ## 🌱 Learning Journey
