@@ -6,8 +6,7 @@ I'm a dev who likes to work across the full stack. I like programming and langua
 
 I am currently working on:
 
-- [Reppd](https://github.com/jakegodsall/reppd) - API for a goal setting and progress tracking application. Built using TDD with Java 17, Spring Framework 6, and MySQL. I intend to build a web/mobile frontend to this as time allows.
-- [Flashcard Generator](https://github.com/jakegodsall/flashcard-generator) - A CLI/GUI tool for generating data for language-learning flashcards with GPT. Built using TDD with Java 22.
+- Flashcard Generator - A suite of tools including a core library ([flashcard-generator-core](https://github.com/jakegodsall/flashcard-generator-core)), a command-line interface ([flashcard-generator-cli](https://github.com/jakegodsall/flashcard-generator-cli)), and a RESTful API (private repository), all built with Java 22 and leveraging GPT to generate language-learning flashcards. The CLI and REST API utilize the core functionality to provide both terminal-based and web-based access to flashcard generation.
 - [Frontend Mentor](https://www.frontendmentor.io/profile/jakegodsall) - Consistently working on Frontend Mentor challenges to keep my frontend skills fresh whilst focusing more on backend. All FM projects in my repositories here are prefixed with `fm-*`.
 
 ## 🌱 Learning Journey
