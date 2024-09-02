@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jake
 
-I'm a dev who likes to work across the full stack. I like programming and languages and programming languages.
+I'm a dev who likes to work across the full stack. I like to build tools that make my life and the lives of others better.
 
 ## 🔨 What I'm Working On
 
@@ -11,9 +11,7 @@ I am currently working on:
 
 ## 🌱 Learning Journey
 
-I am currently dedicating all my efforts to mastering **Java** and **Spring Boot**. My goal is to build really robust and scalable APIs.
-
-Having a blast working through the courses at [Spring Framework Guru](https://springframework.guru/) to build TDD API-driven applications with Spring.
+I am mostly focusing at present on becoming a better UI designer. To this end I am working on creating intuitive interfaces for the software projects I have already built.
 
 ## 📫 Let's Connect!
 
