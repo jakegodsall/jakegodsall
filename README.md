@@ -1,20 +1,29 @@
 # Hi there! 👋 I'm Jake
-
-I'm a dev who likes to work across the full stack. I like to build tools that make my life and the lives of others better.
+I'm a passionate full-stack developer who loves building tools that improve not only my life but also the lives of others. 
+Whether it's creating educational resources or developing web applications, I'm always eager to work on meaningful projects.
 
 ## 🔨 What I'm Working On
+### Current Projects:
+- **Flashcard Generator:**
+  A comprehensive suite of tools designed to generate language-learning flashcards, leveraging GPT technology and built with Java 22. It includes:
+  - [flashcard-generator-core](https://github.com/jakegodsall/flashcard-generator-core): The heart of the system, responsible for generating flashcards.
+  - [flashcard-generator-cli](https://github.com/jakegodsall/flashcard-generator-cli): A CLI tool that brings the core functionality to your terminal.
+  - RESTful API (private): Provides web-based access to flashcard generation using the core library.
+    
+- [Dev Jobs Portal](https://github.com/jakegodsall/devjobs_portal):
+    A full-stack job portal that allows users to create profiles for clients and companies, post jobs, and apply for positions. Built to streamline the job search process with a clean and responsive interface.
 
-I am currently working on:
+## 🌱 My Learning Journey
+I’m currently participating in the 100 Days of C# Challenge to deepen my knowledge of C# and build real-world projects.
 
-- Flashcard Generator - A suite of tools including a core library ([flashcard-generator-core](https://github.com/jakegodsall/flashcard-generator-core)), a command-line interface ([flashcard-generator-cli](https://github.com/jakegodsall/flashcard-generator-cli)), and a RESTful API (private repository), all built with Java 22 and leveraging GPT to generate language-learning flashcards. The CLI and REST API utilize the core functionality to provide both terminal-based and web-based access to flashcard generation.
-- [Frontend Mentor](https://www.frontendmentor.io/profile/jakegodsall) - Consistently working on Frontend Mentor challenges to keep my frontend skills fresh whilst focusing more on backend. All FM projects in my repositories here are prefixed with `fm-*`.
+- [Habit Tracker Application](https://github.com/jakegodsall/HabitTrackerCliApp):
+A command-line habit tracking tool with full CRUD functionality, SQLite database integration, and basic statistical visualization.
 
-## 🌱 Learning Journey
+- [Command Line Games](https://github.com/jakegodsall/CommandLineGames):
+A fun collection of classic games like Tic-tac-toe and Snake, all implemented in C# for the command line. More games coming soon!
 
-I am mostly focusing at present on becoming a better UI designer. To this end I am working on creating intuitive interfaces for the software projects I have already built.
+## 📫 Let’s Connect!
 
-## 📫 Let's Connect!
+I’m always excited about new opportunities, collaborations, and discussions in web development, full-stack projects, and beyond. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/godsalljake/).
 
-I'm always open to new opportunities, collaborations, and discussions related to web development. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/godsalljake/).
-
-Let's build amazing web experiences together! 🚀
+Let’s build amazing projects together! 🚀
