@@ -16,11 +16,8 @@ Whether it's creating educational resources or developing web applications, I'm 
 ## 🌱 My Learning Journey
 I’m currently participating in the 100 Days of C# Challenge to deepen my knowledge of C# and build real-world projects.
 
-- [Habit Tracker Application](https://github.com/jakegodsall/HabitTrackerCliApp):
-A command-line habit tracking tool with full CRUD functionality, SQLite database integration, and basic statistical visualization.
-
-- [Command Line Games](https://github.com/jakegodsall/CommandLineGames):
-A fun collection of classic games like Tic-tac-toe and Snake, all implemented in C# for the command line. More games coming soon!
+- [Toggl Track Analyser](https://github.com/jakegodsall/TogglTrackAnalyser):
+A command-line line tool that integrates with the Toggl API for weekly summarising of time spent on projects with email capabilities.
 
 ## 📫 Let’s Connect!
 
