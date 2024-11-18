@@ -13,12 +13,6 @@ Whether it's creating educational resources or developing web applications, I'm 
 - [Dev Jobs Portal](https://github.com/jakegodsall/devjobs_portal):
     A full-stack job portal that allows users to create profiles for clients and companies, post jobs, and apply for positions. Built to streamline the job search process with a clean and responsive interface.
 
-## 🌱 My Learning Journey
-I’m currently participating in the 100 Days of C# Challenge to deepen my knowledge of C# and build real-world projects.
-
-- [Toggl Track Analyser](https://github.com/jakegodsall/TogglTrackAnalyser):
-A command-line line tool that integrates with the Toggl API for weekly summarising of time spent on projects with email capabilities.
-
 ## 📫 Let’s Connect!
 
 I’m always excited about new opportunities, collaborations, and discussions in web development, full-stack projects, and beyond. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/godsalljake/).
